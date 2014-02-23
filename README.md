@@ -1,7 +1,7 @@
 palindrome-checker
 ==================
 
-(View Demo)[http://yourshoesuntied.com/palindrome-checker-demo/]
+[View Demo](http://yourshoesuntied.com/palindrome-checker-demo/)
 
 A simple application to determine if a given string is a palindrome.
 
